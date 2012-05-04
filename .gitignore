@@ -1,0 +1,7 @@
+# .svn dirs of subversion
+.svn/
+# jedit backup files
+\#*#
+# jedit marker files
+\.*.marks
+
