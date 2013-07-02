@@ -1,11 +1,34 @@
-Hey, you found Fliwi
-====================
-
-    PLEASE NOTE: Fliwi is not ready for production.
+Hey, you found Fliwi!
+=====================
 
 
-Get in touch
-------------
+What is Fliwi?
+--------------
+
+Fliwi is a full stack infrastructure solution, allowing to provision and
+maintain Debian servers, as well as the software on them. It provides
+virtualisation, manage networks and can interconnect systems between multiple
+datacenters. It as a strong focus on stability, high-avalibility, redundancy
+and an ease of administration.
+
+
+Is Fliwi free software?
+-----------------------
+Yes, Fliwi follows the [Debian Free Software Guidelines (DFSG)](http://www.debian.org/social_contract.en.html#guidelines) with most of
+its components being released under the GPL-2+.
+
+
+Where can I get Fliwi?
+----------------------
+
+The complete source code of Fliwi will be made available on Github "once it
+is ready"™. Additionally there are APT repositories to install Fliwi
+from, which are already open and free for all to use. If you are interested
+in them, just ask...
+
+
+Get in touch!
+-------------
 
 Feel free to drop us a line:
 fliwi@fliwi.org
@@ -13,18 +36,10 @@ fliwi@fliwi.org
 
 LEGAL
 -----
-Fliwi is free software; you can redistribute it and/or modify it
-under the terms of the GNU General Public License as published by
-the Free Software Foundation; either version 2 of the License, or
-(at your option) any later version.
-
-Fliwi is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-
-A copy of the GNU General Public License is distributed along with Fliwi.
-If you unable to locate it, you might want to request it from the
-Free Software Foundation, Inc.
-51 Franklin St, Fifth Floor
-Boston, MA  02110-1301 USA
+ANY CONTENT IN THIS REPOSITORY IS PROVIDED "AS IS" AND THE AUTHORS DISCLAIMS
+ALL WARRANTIES WITH REGARD TO ANY CONTENT IN THIS REPOSITORY INCLUDING ALL
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE
+AUTHORS BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES
+OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER
+IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
+OR IN CONNECTION WITH THE USE OR PERFORMANCE OF ANY CONTENT IN THIS REPOSITORY.
